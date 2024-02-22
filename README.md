@@ -3,7 +3,7 @@
  
 <h1 align="center">Hi 👋, I'm Reinhardt Vladyslav</h1>
 <h3 align="center">A passionate Junior Flutter Developer from Ukraine</h3>
-<h4 align="center" Speciality: bachelor`s degree in Computer Science(122)      
+<h4 align="center"> Speciality: bachelor`s degree in Computer Science(122)      
 University：Lviv Ivan Franko National University 
 Diploma: expected graduation: June 2025</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
