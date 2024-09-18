@@ -6,11 +6,10 @@
 - **Speciality: bachelor`s degree in Computer Science(122)**      
 - **University：Lviv Ivan Franko National University**
 - **Diploma: expected graduation: June 2025**
-<h4 align="left">I am inspired student who two years ago became very passionate about cross-platform application development. In fact, I am self-taught, I got all my knowledge with the help of open Internet sources such as YouTube, Medium, Geeksforgeeks. To understand the full software cycle, I would really like to gain a job. It would help me gain the necessary experience and skills, because this is really what I like to do and what really gives me satisfaction. As I continue to explore the depths of Flutter development, I am confident that the knowledge and skills acquired in this job will pave the way for a successful and fulfilling career in mobile app development. I actually have many pet projects, some of them I put in my GitHub repository.</h4>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Flutetr, Dart, Firebase**
+- 💬 Ask me about **Python, Data Analysis, Flutter**
  
 - 📫 How to reach me **reungardtvladik@gmail.com**
 
